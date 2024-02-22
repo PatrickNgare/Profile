@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- My visualisation [https://profile-summary-for-github.com/user/PatrickNgare) 
+- My visualisation https://profile-summary-for-github.com/user/PatrickNgare 
 
 - 👨‍💻 All of my projects are available at [https://github.com/PatrickNgare](https://github.com/PatrickNgare)
 
